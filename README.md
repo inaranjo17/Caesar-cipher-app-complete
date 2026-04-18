@@ -48,9 +48,10 @@ El proyecto integra conceptos de **criptografía clásica** con desarrollo de so
 
 ## 📁 Arquitectura del proyecto
 caesar-cipher-app/
-│
 ├── app/
-│ ├── api/cipher/route.ts → Endpoint REST: POST /api/cipher
+│ ├── api/
+│ │ └── cipher/
+│ │ └── route.ts → Endpoint REST: POST /api/cipher
 │ ├── page.tsx → Página principal
 │ ├── layout.tsx → Layout global
 │ └── globals.css → Estilos base y variables CSS
