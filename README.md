@@ -7,7 +7,7 @@
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
 
-Aplicación web que implementa el **cifrado César** — una de las técnicas criptográficas más antiguas de la historia. Desarrollada como proyecto de seguridad informática, esta herramienta permite cifrar y descifrar mensajes usando dos alfabetos: inglés (26 letras) y español (27 letras, incluye la Ñ).
+Aplicación web que implementa el **cifrado César** — una de las técnicas criptográficas más antiguas de la historia. Desarrollada como proyecto de seguridad integral TI, esta herramienta permite cifrar y descifrar mensajes usando dos alfabetos: inglés (26 letras) y español (27 letras, incluye la Ñ).
 
 El proyecto integra conceptos de **criptografía clásica** con desarrollo de software moderno, aplicando arquitectura limpia, tipado estricto con TypeScript y testing automatizado con Jest.
 
